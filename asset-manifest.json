@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/postman-web-ui/static/css/main.c7cb6fcf.chunk.css",
-    "main.js": "/postman-web-ui/static/js/main.ae690deb.chunk.js",
-    "main.js.map": "/postman-web-ui/static/js/main.ae690deb.chunk.js.map",
+    "main.js": "/postman-web-ui/static/js/main.21bb201e.chunk.js",
+    "main.js.map": "/postman-web-ui/static/js/main.21bb201e.chunk.js.map",
     "runtime~main.js": "/postman-web-ui/static/js/runtime~main.088ddfdb.js",
     "runtime~main.js.map": "/postman-web-ui/static/js/runtime~main.088ddfdb.js.map",
     "static/css/2.1a86b7fb.chunk.css": "/postman-web-ui/static/css/2.1a86b7fb.chunk.css",
     "static/js/2.17029c2f.chunk.js": "/postman-web-ui/static/js/2.17029c2f.chunk.js",
     "static/js/2.17029c2f.chunk.js.map": "/postman-web-ui/static/js/2.17029c2f.chunk.js.map",
     "index.html": "/postman-web-ui/index.html",
-    "precache-manifest.91fbf23eda17f16ef3adaee07052e66b.js": "/postman-web-ui/precache-manifest.91fbf23eda17f16ef3adaee07052e66b.js",
+    "precache-manifest.66557900495e32880f41c7d52615faa4.js": "/postman-web-ui/precache-manifest.66557900495e32880f41c7d52615faa4.js",
     "service-worker.js": "/postman-web-ui/service-worker.js",
     "static/css/2.1a86b7fb.chunk.css.map": "/postman-web-ui/static/css/2.1a86b7fb.chunk.css.map",
     "static/css/main.c7cb6fcf.chunk.css.map": "/postman-web-ui/static/css/main.c7cb6fcf.chunk.css.map"
