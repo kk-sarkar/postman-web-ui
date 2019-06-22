@@ -1,0 +1,35 @@
+.content {
+    padding: 15px 0;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.flex-container div {
+    margin: 5px 20px;
+    min-width: 250px;
+}
+
+.label {
+    margin: 0 10px;
+}
+
+.emphasis {
+    font-weight: bold;
+}
+
+.section-header {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.overall-metric {
+    color: #081788;
+}
+
+.stats-container {
+    background-color: #f4f0ed;
+    padding: 15px 20px;
+}

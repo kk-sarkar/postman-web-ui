@@ -1,0 +1,36 @@
+.content {
+    padding: 15px 0;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.flex-container div {
+    margin: 5px 20px;
+    min-width: 250px;
+}
+
+.label {
+    margin: 0 10px;
+}
+
+.emphasis {
+    font-weight: bold;
+}
+
+.section-header {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.service-name-label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.stats-container {
+    background-color: #f4f0ed;
+    padding: 15px 20px;
+}

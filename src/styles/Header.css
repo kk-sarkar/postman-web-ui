@@ -1,0 +1,37 @@
+.app-name {
+	font-size: 22px;
+	text-transform: none;
+	font-weight: bold;
+	color: #656C7A;
+}
+
+.header {
+	box-shadow: 0 0 2px rgba(0,0,0,.5);
+    background-color: #FFFFFF;
+}
+
+.navbar {
+	padding: 20px 30px;
+}
+
+.nav-item {
+	display: block;
+    padding: 0.5rem 1.5rem;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.nav-item:hover {
+	color: #FF4641;
+}
+
+.nav-item.active {
+	font-weight: bold;
+	border-bottom: 2px solid #ffcd41;
+	color: #A7ABB3;
+}
+
+.nav-link {
+	padding: 0;
+}
