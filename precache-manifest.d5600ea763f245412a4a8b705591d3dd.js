@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "210d360064d7a4dd094a57eb8e56faad",
+    "revision": "9e6e4a6c23087264ed649223f6d0e823",
     "url": "/postman-web-ui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/postman-web-ui/static/css/2.1a86b7fb.chunk.css"
   },
   {
-    "revision": "cc2696615fd2baddbdf7",
+    "revision": "e8e4996a9e260e254481",
     "url": "/postman-web-ui/static/css/main.c7cb6fcf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/postman-web-ui/static/js/2.17029c2f.chunk.js"
   },
   {
-    "revision": "cc2696615fd2baddbdf7",
-    "url": "/postman-web-ui/static/js/main.21bb201e.chunk.js"
+    "revision": "e8e4996a9e260e254481",
+    "url": "/postman-web-ui/static/js/main.f0379331.chunk.js"
   },
   {
     "revision": "16dc148f65e250c09f5f",
