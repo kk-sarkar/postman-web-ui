@@ -212,10 +212,10 @@ class App extends Component {
 		      <Router>
 		      		<Header />
 		      		<Switch>
-					  	<Route path="/postman-webui/dev" exact render={( props ) => <ContentPage {...props} data={data.dev} />} />
-						<Route path="/postman-webui/sit" exact render={( props ) => <ContentPage {...props} data={data.sit} />} />
-						<Route path="/postman-webui/uat" exact render={( props ) => <ContentPage {...props} data={data.uat} />} />
-						<Redirect to="/postman-webui/dev" />
+					  	<Route path="/postman-web-ui/dev" exact render={( props ) => <ContentPage {...props} data={data.dev} />} />
+						<Route path="/postman-web-ui/sit" exact render={( props ) => <ContentPage {...props} data={data.sit} />} />
+						<Route path="/postman-web-ui/uat" exact render={( props ) => <ContentPage {...props} data={data.uat} />} />
+						<Redirect to="/postman-web-ui/dev" />
 		      		 </Switch>
 		      </Router>
 		    </div>
