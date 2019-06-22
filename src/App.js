@@ -3,7 +3,9 @@ import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-d
 import './styles/App.css';
 import Header from './components/layouts/Header';
 import ContentPage from './components/pages/ContentPage';
-import { devData, sitData, uatData } from './services/dataServices';
+import devData from './results/dev.json';
+import sitData from './results/sit.json';
+import uatData from './results/uat.json';
 
 const appData = {
 
@@ -196,9 +198,9 @@ class App extends Component {
     }
     
     componentDidMount() {
-        devData().then(data => console.log(data));
-        sitData().then(data => console.log(data));
-        uatData().then(data => console.log(data));
+        console.log(devData);
+        console.log(sitData);
+        console.log(uatData);
     }
 
 	render() {
