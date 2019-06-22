@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-d
 import './styles/App.css';
 import Header from './components/layouts/Header';
 import ContentPage from './components/pages/ContentPage';
+import { devData, sitData, uatData } from './services/dataServices';
 
 const appData = {
 
@@ -192,7 +193,13 @@ class App extends Component {
 		this.state = {
 			data: appData
 		}
-	}
+    }
+    
+    componentDidMount() {
+        devData().then(data => console.log(data));
+        sitData().then(data => console.log(data));
+        uatData().then(data => console.log(data));
+    }
 
 	render() {
 
