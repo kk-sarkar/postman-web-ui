@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/postman-web-ui/precache-manifest.d5600ea763f245412a4a8b705591d3dd.js"
+  "/postman-web-ui/precache-manifest.91fbf23eda17f16ef3adaee07052e66b.js"
 );
 
 self.addEventListener('message', (event) => {
